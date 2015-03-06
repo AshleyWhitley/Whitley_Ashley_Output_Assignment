@@ -26,3 +26,9 @@ location = Washington; //definition
 //storage container = value
 
 var unitedStates = Washington; //declaring and defining on the same line
+
+//Variables of Different Types, Numbers, Booleans and Strings
+
+var favoriteNumber = 7; //Number Variable
+
+var inWashington = true; //Boolean Variable
