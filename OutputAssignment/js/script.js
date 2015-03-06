@@ -18,3 +18,11 @@ alert("Using Alerts!")
 var location;
 
 var unitedStates;
+
+// Defining Variables
+
+var location; //declaration
+location = Washington; //definition
+//storage container = value
+
+var unitedStates = Washington; //declaring and defining on the same line
