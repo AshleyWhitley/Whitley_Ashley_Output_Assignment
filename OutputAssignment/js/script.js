@@ -17,7 +17,11 @@ alert("Using Alerts!")
 
 var location;
 
+console.log(location);
+
 var unitedStates;
+
+console.log(unitedStates);
 
 // Defining Variables
 
@@ -48,6 +52,6 @@ console.log(shoppingList);
 
 var shoppingList = ["Bananas", "Oranges", "Apples", "Kiwis"];
 
-console.log(shoppingList[0]);
+console.log(shoppingList[0]); //Only bananas shows on the console from the index list
 
 
