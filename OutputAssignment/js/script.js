@@ -32,3 +32,8 @@ var unitedStates = Washington; //declaring and defining on the same line
 var favoriteNumber = 7; //Number Variable
 
 var inWashington = true; //Boolean Variable
+
+var washington = "my home"
+var location = "washington";
+
+
