@@ -36,4 +36,8 @@ var inWashington = true; //Boolean Variable
 var washington = "my home"
 var location = "washington";
 
+// String
+
+var phrase = 'I don\'t live in California';
+
 
