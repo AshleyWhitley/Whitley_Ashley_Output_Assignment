@@ -13,4 +13,8 @@ console.log(favoriteNumber);
 
 alert("Using Alerts!")
 
+// Declaring Variables
+
+var location;
+
 
