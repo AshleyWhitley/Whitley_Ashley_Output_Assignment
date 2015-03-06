@@ -17,4 +17,4 @@ alert("Using Alerts!")
 
 var location;
 
-
+var unitedStates;
