@@ -46,6 +46,8 @@ var shoppingList = ["Bananas", "Oranges", "Apples", "Kiwis"]; //Index Numbers ar
 
 console.log(shoppingList);
 
+var shoppingList = ["Bananas", "Oranges", "Apples", "Kiwis"];
 
+console.log(shoppingList[0]);
 
 
