@@ -9,13 +9,13 @@
 
 var favoriteNumber = 7;
 
-// Printing to the Console
+// Printing to the Console my favorite number
 
 console.log(favoriteNumber);
 
 // Alerts
 
-alert("Using Alerts!")
+alert("Hi! I am Ashley!")
 
 // Declaring Variables
 
@@ -31,31 +31,32 @@ console.log(unitedStates);
 
 var location; //declaration
 location = Washington; //definition
+
 //storage container = value
 
 var unitedStates = Washington; //declaring and defining on the same line
 
 //Variables of Different Types, Numbers, Booleans and Strings
 
-var favoriteNumber = 7; //Number Variable
+var kids = 2; //Number Variable
 
-var inWashington = true; //Boolean Variable
+var mother = true; //Boolean Variable
 
-var washington = "my home"
-var location = "washington";
+var seattle = "my home"
+var location = "seattle";
 
 // String
 
-var phrase = 'I don\'t live in California';
+var phrase = 'I don\'t like mushrooms';
 
 // Arrays
 
-var shoppingList = ["Bananas", "Oranges", "Apples", "Kiwis"]; //Index Numbers are 0,1,2,3
+var familyNames = ["Brandon", "Layla", "Conor"]; //Index Numbers are 0,1,2
 
-console.log(shoppingList);
+console.log(familyNames);
 
-var shoppingList = ["Bananas", "Oranges", "Apples", "Kiwis"];
+var familyNames = ["Brandon", "Layla", "Conor"];
 
-console.log(shoppingList[0]); //Only bananas shows on the console from the index list
+console.log(shoppingList[1]); //Only Layla shows on the console from the index list
 
 
