@@ -40,4 +40,12 @@ var location = "washington";
 
 var phrase = 'I don\'t live in California';
 
+// Arrays
+
+var shoppingList = ["Bananas", "Oranges", "Apples", "Kiwis"]; //Index Numbers are 0,1,2,3
+
+console.log(shoppingList);
+
+
+
 
