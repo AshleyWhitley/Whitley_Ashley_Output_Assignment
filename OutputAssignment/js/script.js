@@ -1,6 +1,10 @@
 /**
  * Created by MissyGotGame on 3/5/15.
  */
+//Ashley Whitley
+//March 5, 2015
+    //SDI-0 Section 01
+
 // Value and Data Types
 
 var favoriteNumber = 7;
